@@ -1,7 +1,0 @@
-some text
-
-
-next line is added too
-
-
-new lin...
